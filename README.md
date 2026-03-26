@@ -1,4 +1,4 @@
-# FINVERSE - Explore the world of smart banking
+# FINVERSE - "Explore the world of smart banking"
 
 🌐 LIVE DEMO
 
