@@ -49,7 +49,7 @@ Categorizes expenses and helps maintain spending limits.
 👨‍👩‍👧‍👦 Multi-user Support
 Enables family/shared expense tracking.
 
-🛠️ Tech Stack
+🛠️ TECH STACK
 
 Frontend:
 - React.js
