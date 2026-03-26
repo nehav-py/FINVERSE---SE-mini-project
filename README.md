@@ -2,7 +2,7 @@ FINVERSE - Explore the world of smart banking
 
 🌐 LIVE DEMO
 
-👉 https://melodious-unicorn-0a299a.netlify.app/
+👉 https://finverse-se-mini-project.onrender.com
 
 📌OVERVIEW
 
