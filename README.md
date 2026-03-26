@@ -73,16 +73,16 @@ Database (Concept / Planned):
 
 🔮 FUTURE SCOPE:
 
-🤖 AI-based financial recommendations
+- AI-based financial recommendations
 
-🏦 Bank API integration
+- Bank API integration
 
-☁️ Cloud sync across devices
+- Cloud sync across devices
 
-🗣️ Voice assistant support
+- Voice assistant support
 
-📊 Advanced analytics & reports
+- Advanced analytics & reports
 
 📜 License
 
-This project is developed for educational purposes.
+- This project is developed for educational purposes.
